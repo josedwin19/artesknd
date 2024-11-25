@@ -21,7 +21,7 @@ export default function AboutUs() {
               </div>
               <h3 className="mt-4 text-xl font-semibold text-gray-900">Nuestra Historia</h3>
               <p className="mt-2 text-gray-600">
-                Comenzamos como una pequeña tienda en el corazón de Cusco, trabajando directamente con 
+                Comenzamos como una pequeña tienda en Ciudad Een-Chiclayo, trabajando directamente con 
                 artesanos locales. Hoy nos enorgullece ser un referente en la preservación y promoción 
                 del arte tradicional peruano.
               </p>
