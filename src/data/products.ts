@@ -5,11 +5,11 @@ export const products = [
     description: "Hermosa billetera tejida a mano con fibras naturales, decorada con flores bordadas y detalles coloridos. Diseño tradicional cusqueño con motivos florales en tonos vibrantes de rosa, amarillo y turquesa.",
     images: [
       "/wallet1.jpg",
-      "/wallet2.jpg",
+      "/wallet2.jpeg",
       "/wallet-detail.jpg"
     ],
     category: "Accesorios",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const products = [
       "/wallet-pattern.jpg"
     ],
     category: "Accesorios",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const products = [
       "/earrings-detail.jpg"
     ],
     category: "Joyería",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ export const products = [
       "https://images.unsplash.com/photo-1531169509526-f8f1fdaa4a67?auto=format&fit=crop&q=80&w=800"
     ],
     category: "Textiles",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ export const products = [
       "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&q=80&w=800"
     ],
     category: "Cerámica",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   },
   {
     id: 6,
@@ -69,6 +69,6 @@ export const products = [
       "https://images.unsplash.com/photo-1590845947244-86a23435c799?auto=format&fit=crop&q=80&w=800"
     ],
     category: "Arte Popular",
-    whatsappNumber: "51912345678"
+    whatsappNumber: "51979847317"
   }
 ];
