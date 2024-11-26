@@ -8,7 +8,7 @@ export const products = [
       "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&q=80&w=800"
     ],
     category: "aretes",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export const products = [
       "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&q=80&w=800"
     ],
     category: "aretes",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const products = [
       "https://images.unsplash.com/photo-1606503825008-909a67e63c3d?auto=format&fit=crop&q=80&w=800"
     ],
     category: "billeteras",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ export const products = [
       "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&q=80&w=800"
     ],
     category: "carteras",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export const products = [
       "https://images.unsplash.com/photo-1590845947244-86a23435c799?auto=format&fit=crop&q=80&w=800"
     ],
     category: "neceseres",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   },
   {
     id: 6,
@@ -63,6 +63,6 @@ export const products = [
       "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=800"
     ],
     category: "pulseras",
-    whatsappNumber: "51987654321"
+    whatsappNumber: "51979847317"
   }
 ];
