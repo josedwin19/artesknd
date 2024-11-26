@@ -1,11 +1,21 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { viteStaticCopy } from 'vite-plugin-static-copy';
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()],
+  plugins: [
+    react(),
+    viteStaticCopy({
+      targets: [
+        {
+          src: 'public/404.html', // Place your 404.html in the "public" folder
+          dest: '.', // Copy to the root of the dist folder
+        },
+      ],
+    }),
+  ],
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/artesknd/', // Replace <repository-name> with your GitHub repository name
+  base: '/artesknd/', // Your GitHub repository base path
 });
