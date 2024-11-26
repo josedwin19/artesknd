@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: "/artesknd/",
+  base: '/artesknd/', // Replace <repository-name> with your GitHub repository name
 });
