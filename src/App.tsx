@@ -7,7 +7,7 @@ import SearchPage from './pages/SearchPage';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/artesknd">
       <div className="min-h-screen bg-gray-100">
         <Navbar />
         
